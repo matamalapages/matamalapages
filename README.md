@@ -23,13 +23,13 @@ Thesis title: "Measurement of the impact of abiotic/extrinsic events (climate ch
 
 **Master in Oceanography** (2022&ndash;2023)  
 Universidade de Vigo (Spain)  
-Research advisor: Gianluca Marino  
+Research advisors: Gianluca Marino
 Thesis title: "Application of a new method for palaeoclimate variability reconstructions in the tropical Indian Ocean"
 
 **Degree in Environmental sciences** (2018&ndash;2022)  
-Universitat de Girona (Spain)
-Research advisor: Conxi Rodríguez-Prieto
-Thesis title: "Vegetative and reproductive morphology of Rissoella verruculosa (Rissoellaceae, Gigartinales, Rhodophyta)”
+Universitat de Girona (Spain)  
+Research advisors: Conxi Rodríguez-Prieto
+Thesis title: "Vegetative and reproductive morphology of Rissoella verruculosa (Rissoellaceae, Gigartinales, Rhodophyta)"
 
 ## Employment
 
