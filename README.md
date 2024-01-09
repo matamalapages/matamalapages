@@ -18,17 +18,17 @@ Paleontologist comparing past climatic simulations, with the paleoclimatic condi
 
 **PhD in Palaeogeography** (2023&ndash;Current)  
 Universidade de Vigo (Spain)  
-Research advisors: Sara Varela, Oskar Hagen & Eduardo Méndez
+Research advisors: Sara Varela, Oskar Hagen & Eduardo Méndez  
 Thesis title: "Measurement of the impact of abiotic/extrinsic events (climate change) and intrinsic species characteristics on species biogeography"
 
 **Master in Oceanography** (2022&ndash;2023)  
 Universidade de Vigo (Spain)  
-Research advisors: Gianluca Marino
+Research advisors: Gianluca Marino  
 Thesis title: "Application of a new method for palaeoclimate variability reconstructions in the tropical Indian Ocean"
 
 **Degree in Environmental sciences** (2018&ndash;2022)  
 Universitat de Girona (Spain)  
-Research advisors: Conxi Rodríguez-Prieto
+Research advisors: Conxi Rodríguez-Prieto  
 Thesis title: "Vegetative and reproductive morphology of Rissoella verruculosa (Rissoellaceae, Gigartinales, Rhodophyta)"
 
 ## Employment
