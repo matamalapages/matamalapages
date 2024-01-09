@@ -59,7 +59,7 @@ Hamelin Brands, Catalunya (Spain)
 **Introduction to Macroevolutionary Analyses Using Phylogenies** (2023)  
 Transmitting Science, Online
 
-**Comunica a túa Ciencia (Communicate your Science)** (2023)
+**Comunica a túa Ciencia (Communicate your Science)** (2023)  
 Universidade de Vigo (Spain)
 
 **Evaluating and validating species distribution models with R** (2023)  
@@ -68,15 +68,15 @@ Transmitting Science, Online
 **Introduction to GEN3SIS** (2023)  
 Universidade de Vigo (Spain)
 
-**Applied GIS in Coastal and Marine Environment** (2021)
+**Applied GIS in Coastal and Marine Environment** (2021)  
 Instituto Superior del Medio Ambiente de España, Online
 
-**The Climate Energy Challenge** (2018)
+**The Climate Energy Challenge** (2018)  
 University of Harvard, Online
 
 ## Professional service and outreach
 
-**Centro investigaciones Mariñas (CIM) open day** (2023)
+**Centro investigaciones Mariñas (CIM) open day** (2023)  
 Environmental educator
 
 ## Skills
@@ -87,10 +87,10 @@ Intermediate knowledge of data analysis and data visualization, beginner in writ
 **Geocomputation**  
 Basic level of spatial analysis and use of R spatial packages (e.g., raster, terra, sf, sp)
 
-**Languages** 
-Catalan (native)
-Spanish (native)
-English (FCE)
+**Languages**  
+Catalan (native)  
+Spanish (native)  
+English (FCE)  
 
 **Workplace qualifications**  
 Emergency first-aid at work
